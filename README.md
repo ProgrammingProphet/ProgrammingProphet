@@ -28,7 +28,6 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing effi
 
 ## 🌐 Socials:
 💼 [LinkedIn - Aditya Vishwakarma](https://www.linkedin.com/in/aditya-vishwakarma-devops/) | 📧 adityasraazvishwaakrma@gmail.com
-
 ---
 I am a Training Officer at Magic Bus India Foundation, mentoring students under a CSR project funded by Accenture.    
 ---                                                                                                                               
