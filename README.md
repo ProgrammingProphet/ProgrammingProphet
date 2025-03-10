@@ -10,7 +10,10 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing effi
 - **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation  
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
 - **Scripting & Automation:** Bash, Python  
-- **Version Control:** Git, GitHub  
+- **Version Control:** Git, GitHub
+- **Frontend:** React, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, Java SpringBoot, JPA + Hibernate with Maven
+- **Database:** *SQL* - MySQL, AWS RDS  & *NoSQL* - MongoDB, AWS DynamoDB, Firebase 
 
 ### 🌱 **Currently Learning:**  
 - Advanced **AWS DevOps** tools & services  
