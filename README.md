@@ -1,5 +1,30 @@
-# 💫 About Me:
-👋 Hey there! I'm Aditya Vishwakarma<br>🚀 DevOps Enthusiastic | Java Full Stack | AWS Cloud Practitioner| Frontend Developer | Web Designer | Training Officer <br><br>💡 Passionate about frontend development with a focus on React, Angular, and Tailwind CSS to build modern, responsive, and scalable applications. Currently, I work as a Training Officer at Magic Bus India Foundation, where I mentor students under a CSR project funded by Accenture.<br><br>🔹 Tech Stack:<br><br>Frontend: React.js, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Cloud & DevOps: AWS (Lambda, S3, EC2), Docker<br>Design & Prototyping: Figma, Adobe XD<br>🌱 Currently Learning: Advanced TypeScript, Figma, and exploring NLP in AI.<br><br>🎯 Goals:<br><br>Build a modern resume builder using React, Tailwind CSS, Node.js, and MongoDB.<br>Master in-depth Angular development.<br>Contribute to open-source projects and mentor aspiring developers.<br>📌 Let's Connect!<br>💼 LinkedIn | 📧 https://www.linkedin.com/in/aditya-vishwakarma-devops/
+### 🚀 Hey, I'm **Aditya Vishwakarma**  
+🔹 **DevOps Enthusiast | Cloud Practitioner | Automation Lover**  
+
+I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing efficiency, scalability, and reliability to modern applications. With experience in **AWS, CI/CD pipelines, containerization, and infrastructure as code (IaC)**, I aim to bridge the gap between development and operations.  
+
+### 🛠️ **Tech Stack & Tools:**  
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM, CloudFormation)  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **CI/CD Pipelines:** GitHub Actions, Jenkins  
+- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+- **Scripting & Automation:** Bash, Python  
+- **Version Control:** Git, GitHub  
+
+### 🌱 **Currently Learning:**  
+- Advanced **AWS DevOps** tools & services  
+- **Kubernetes cluster management**  
+- Optimizing **CI/CD pipelines** for high-performance delivery  
+
+### 🎯 **DevOps Goals:**  
+✅ Build **scalable cloud-native applications**  
+✅ Automate **infrastructure deployment & monitoring**  
+✅ Contribute to **open-source DevOps projects**  
+✅ Enhance **security & observability** in cloud environments  
+
+Currently, I work as a Training Officer at Magic Bus India Foundation, where I mentor students under a CSR project funded by Accenture.<br><be                                                                                                                                                                                                                                                                                                                                                                                                                                                                 >
+🔹 Tech Stack:<br><br>Frontend: React.js, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Cloud & DevOps: AWS (Lambda, S3, EC2), Docker<br>Design & Prototyping: Figma, Adobe XD<br>🌱 Currently Learning: Advanced TypeScript, Figma, and exploring NLP in AI.<br><br>🎯 Goals:<br><be><br>Master in-depth development.<br>Contribute to open-source projects and mentor aspiring developers.<br>📌 Let's Connect!<br>💼 LinkedIn | 📧 https://www.linkedin.com/in/aditya-vishwakarma-devops/
 
 
 ## 🌐 Socials:
