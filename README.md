@@ -23,9 +23,13 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing effi
 ✅ Contribute to **open-source DevOps projects**  
 ✅ Enhance **security & observability** in cloud environments  
 
-Currently, I work as a Training Officer at Magic Bus India Foundation, where I mentor students under a CSR project funded by Accenture.<br><be                                                                                                                                                                                                                                                                                                                                                                                                                              <br>                              >
-🔹 Tech Stack:<br><br>Frontend: React.js, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Cloud & DevOps: AWS (Lambda, S3, EC2), Docker<br>Design & Prototyping: Figma, Adobe XD<br>🌱 Currently Learning: Advanced TypeScript, Figma, and exploring NLP in AI.<br><br>🎯 Goals:<br><be><br>Master in-depth development.<br>Contribute to open-source projects and mentor aspiring developers.<br><br>📌 Let's Connect!<br>💼 LinkedIn | 📧 https://www.linkedin.com/in/aditya-vishwakarma-devops/
+### 📌 **Let's Connect!**  
+💼 [LinkedIn](#) | 📧 [vikram.v.dev@example.com](https://www.linkedin.com/in/aditya-vishwakarma-devops/
+)  
 
+---
+Currently, I work as a Training Officer at Magic Bus India Foundation, where I mentor students under a CSR project funded by Accenture.<br>                                                                                                                                                                                                                                                                                                                                                                                                                            <br>                              >
+🔹 Tech Stack:<br><br>Frontend: React.js, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Cloud & DevOps: AWS (Lambda, S3, EC2), Docker<br>Design & Prototyping: Figma, Adobe XD<br>🌱 Currently Learning: Advanced TypeScript, Figma, and exploring NLP in AI.<br><br>🎯 Goals:<br><be><br>Master in-depth development.<br>Contribute to open-source projects and mentor aspiring developers.<br><br>📌 Let's Connect!<br>💼 LinkedIn | 📧 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-vishwakarma-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasraazvishwakarma@gmail.com) 
