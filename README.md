@@ -5,10 +5,10 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing effi
 
 ### 🛠️ **Tech Stack & Tools:**  
 - **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM, CloudFormation)  
-- **Containers & Orchestration:** Docker, Kubernetes   ----Learning
-- **CI/CD Pipelines:** GitHub Actions, Jenkins  ----Learning
-- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation  ----Learning
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  ----Learning
+- **Containers & Orchestration:** Docker, Kubernetes                 ----Learning
+- **CI/CD Pipelines:** GitHub Actions, Jenkins                       ----Learning
+- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation    ----Learning
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack           ----Learning
 - **Scripting & Automation:** Bash, Python  
 - **Version Control:** Git, GitHub
 - **Frontend:** React, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
@@ -29,7 +29,7 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing effi
 ## 🌐 Socials:
 💼 [LinkedIn - Aditya Vishwakarma](https://www.linkedin.com/in/aditya-vishwakarma-devops/) | 📧 adityasraazvishwaakrma@gmail.com
 ---
-###I am a Training Officer at Magic Bus India Foundation, mentoring students under a CSR project funded by Accenture.    
+I am a Training Officer at Magic Bus India Foundation, mentoring students under a CSR project funded by Accenture.    
 ---                                                                                                                               
 
 
