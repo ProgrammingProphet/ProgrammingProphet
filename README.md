@@ -24,7 +24,7 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing effi
 ✅ Enhance **security & observability** in cloud environments  
 
 ### 📌 **Let's Connect!**  
-💼 [LinkedIn](#) | 📧 [(https://www.linkedin.com/in/aditya-vishwakarma-devops/
+💼 [LinkedIn](#) | 📧 (https://www.linkedin.com/in/aditya-vishwakarma-devops/
 )]
 
 ---
