@@ -1,7 +1,6 @@
 ### 🚀 Hey, I'm **Aditya Vishwakarma **  
----
 Training Officer at Magic Bus India 
----
+
 🔹 **DevOps Enthusiast | Cloud Practitioner | Automation Lover**  
 
 I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing efficiency, scalability, and reliability to modern applications. With experience in **AWS, CI/CD pipelines, containerization, and infrastructure as code (IaC)**, I aim to bridge the gap between development and operations.  
