@@ -1,4 +1,4 @@
-### 🚀 Hey, I'm **Aditya Vishwakarma, Training Officer at Magic Bus India**  
+### 🚀 Hey, I'm **Aditya Vishwakarma, Training Officer at Magic Bus India Foundation**  
 
 🔹 **DevOps Enthusiast | Cloud Practitioner | Automation Lover**  
 
