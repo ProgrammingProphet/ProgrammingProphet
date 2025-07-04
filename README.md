@@ -6,10 +6,10 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing effi
 
 ### 🛠️ **Tech Stack & Tools:**  
 - **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM, CloudFormation)  
-- **Containers & Orchestration:** Docker, Kubernetes                 ----Learning
-- **CI/CD Pipelines:** GitHub Actions, Jenkins                       ----Learning
-- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation    ----Learning
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack           ----Learning
+- **Containers & Orchestration:** Docker, Kubernetes                 ----Learning (Kubernetes)
+- **CI/CD Pipelines:** GitHub Actions, Jenkins                       
+- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation   ---Learning
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack           
 - **Scripting & Automation:** Bash, Python  
 - **Version Control:** Git, GitHub
 - **Frontend:** React, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
