@@ -1,6 +1,6 @@
 ### 🚀 Hey, I'm **Aditya Vishwakarma, Training Officer at Magic Bus India Foundation**  
 
-🔹 **DevOps Enthusiast | AWS & Oracle Certified | Automation Lover**  
+🔹 **DevOps Engineer | AWS & Oracle Certified | Automation Lover**  
 
 DevOps Engineer with hands-on experience in Linux server administration, CI/CD automation, containerized deployments, and cloud infrastructure management. Skilled in Docker, Git-based workflows, and AWS services. Experienced in deploying and managing applications on VPS and cloud environments with strong understanding of networking and server configuration. Focused on automation, system efficiency, and scalable deployment practices.  
 
