@@ -2,19 +2,19 @@
 
 🔹 **DevOps Enthusiast | AWS & Oracle Certified | Automation Lover**  
 
-I'm passionate about **DevOps, Cloud Computing, and Automation**—bringing efficiency, scalability, and reliability to modern applications. With experience in **AWS, CI/CD pipelines, containerization, and infrastructure as code (IaC)**, I aim to bridge the gap between development and operations.  
+DevOps Engineer with hands-on experience in Linux server administration, CI/CD automation, containerized deployments, and cloud infrastructure management. Skilled in Docker, Git-based workflows, and AWS services. Experienced in deploying and managing applications on VPS and cloud environments with strong understanding of networking and server configuration. Focused on automation, system efficiency, and scalable deployment practices.  
 
 ### 🛠️ **Tech Stack & Tools:**  
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM, CloudFormation)  
-- **Containers & Orchestration:** Docker, Kubernetes                 ----Kubernetes(Basic)
+- **Cloud Platforms:** AWS (EC2, S3, VPC, Lambda, SNS, IAM, CloudFront, ELB, RDS, DynamoDB, etc)  
+- **Containers & Orchestration:** Docker, Kubernetes                 
 - **CI/CD Pipelines:** GitLab, GitHub Actions, Jenkins                       
 - **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation  
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack           
 - **Scripting & Automation:** Bash, Python  
 - **Version Control:** Git, GitHub
-- **Frontend:** React, Angular, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js, Java SpringBoot, JPA + Hibernate with Maven
-- **Database:** *SQL* - MySQL, AWS RDS  & *NoSQL* - MongoDB, AWS DynamoDB, Firebase 
+- **Worked in Frontend Environment:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, NextJS, Angular
+- **Worked in Backend Environment:** Node.js, Java SpringBoot, Python Django
+- **Worked with Database:** *SQL* - MySQL, AWS RDS  & *NoSQL* - MongoDB, AWS DynamoDB, Firebase 
 
 ### 🌱 **Currently Learning:**  
 - Advanced **AWS DevOps** tools & services  
