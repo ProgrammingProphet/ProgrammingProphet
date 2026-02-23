@@ -14,7 +14,7 @@ DevOps Engineer with hands-on experience in Linux server administration, CI/CD a
 - **Version Control:** Git, GitHub
 - **Worked in Frontend Environment:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, NextJS, Angular
 - **Worked in Backend Environment:** Node.js, Java SpringBoot, Python Django
-- **Worked with Database:** *SQL* - MySQL, AWS RDS  & *NoSQL* - MongoDB, AWS DynamoDB, Firebase 
+- **Worked with Database:** *SQL* --- MySQL, AWS RDS   &   *NoSQL* --- MongoDB, AWS DynamoDB, Firebase 
 
 ### 🌱 **Currently Learning:**  
 - Advanced **AWS DevOps** tools & services  
