@@ -8,7 +8,7 @@ DevOps Engineer with hands-on experience in Linux server administration, CI/CD a
 - **Cloud Platforms:** AWS (EC2, S3, VPC, Lambda, SNS, IAM, CloudFront, ELB, RDS, DynamoDB, etc)  
 - **Containers & Orchestration:** Docker, Kubernetes                 
 - **CI/CD Pipelines:** GitLab, GitHub Actions, Jenkins                       
-- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation  
+- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation, Ansible 
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack           
 - **Scripting & Automation:** Bash, Python  
 - **Version Control:** Git, GitHub
