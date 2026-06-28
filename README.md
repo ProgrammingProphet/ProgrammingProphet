@@ -1,4 +1,4 @@
-### 🚀 Hey, I'm **Aditya Vishwakarma, Technical Training Officer at Magic Bus India Foundation**  
+### 🚀 Hey, I'm **Aditya Vishwakarma**  
 
 🔹 **DevOps Engineer | AWS & Oracle Certified | Automation Lover**  
 
@@ -29,8 +29,6 @@ DevOps Engineer with hands-on experience in Linux server administration, CI/CD a
 
 ## 🌐 Socials:
 💼 [LinkedIn - Aditya Vishwakarma](https://www.linkedin.com/in/aditya-vishwakarma-devops/) | 📧 adityasraazvishwaakrma@gmail.com
----
-I am a Training Officer at Magic Bus India Foundation, mentoring students under a CSR project funded by Accenture.    
 ---                                                                                                                               
 
 
